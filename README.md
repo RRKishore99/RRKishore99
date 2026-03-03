@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working as Blockchain Security Researcher<br><br>
 
+250+ EVM Audit | 30+ Rust Audit
 Over 300 H/M bugs found.
 
 Worked with Solidproof.io , Vibranium Audits
