@@ -24,7 +24,7 @@ Request an audit at https://t.me/rk_sec
 # Team
 | № | Date | Provider | Project | Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|   |      |          |         |          |                 |        |          |
+| 01 |06/09/2026|Solidproof.io|Alvara Protocol|Basket|18H/26M|        | Solidity|
 
 # Contests
 | № | Date | Project | Category | Vulnerabilities | Report | Language | Rank |
