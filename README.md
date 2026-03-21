@@ -24,8 +24,8 @@ Request an audit at https://t.me/rk_sec
 # Team
 | № | Date | Provider | Project | Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| 01 |06/09/2026|Solidproof.io|Alvara Protocol|Basket|18H/26M|  [📑](https://app.solidproof.io/projects/alvara-protocol)      | Solidity|
-| 02 |14/09/2026|Solidproof.io|Strategic Reserve Coin|Token-2022 Extensions|1C/8H/22M|[📑](https://app.solidproof.io/projects/strategic-reserve-coin)  | Rust|
+| 01 |06/09/2026|Solidproof.io|Alvara Protocol|Basket|18H/26M|[📑](https://github.com/RRKishore99/Audit-Reports/blob/main/Alvara%20Protocol%20Report%20V1.pdf)   [📑](https://app.solidproof.io/projects/alvara-protocol)      | Solidity|
+| 02 |14/09/2026|Solidproof.io|Strategic Reserve Coin|Token-2022 Extensions|1C/8H/22M|[📑](https://github.com/RRKishore99/Audit-Reports/blob/main/Strategic%20Reserve%20Coin%20Report%20V1.pdf%20.pdf)[📑](https://app.solidproof.io/projects/strategic-reserve-coin)  | Rust|
 
 # Contests
 | № | Date | Project | Category | Vulnerabilities | Report | Language | Rank |
