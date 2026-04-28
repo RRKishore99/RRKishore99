@@ -28,6 +28,6 @@ Request an audit at https://t.me/rk_sec
 | 02 |14/03/2026|Solidproof.io|Strategic Reserve Coin|Token-2022 Extensions|1C/8H/22M|[📑](https://github.com/RRKishore99/Audit-Reports/blob/main/Strategic%20Reserve%20Coin%20Report%20V1.pdf%20.pdf)[📑](https://app.solidproof.io/projects/strategic-reserve-coin)  | Rust|
 
 # Contests
-| № | Date | Project | Category | Vulnerabilities | Report | Language | Rank |
+| № | Date | Project | Platform | Vulnerabilities | Report | Language | Rank |
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| 01  |  20/03/2026     |   Intitution      |        |   L01(Valid)      |  [📑](https://code4rena.com/audits/2026-03-intuition/submissions?uid=ucoJTFFNW2W)        |    Solidity      |      |
+| 01  |  20/03/2026     |   Intitution      | Code4arena       |   L01(Valid)      |  [📑](https://code4rena.com/audits/2026-03-intuition/submissions?uid=ucoJTFFNW2W)        |    Solidity      |      |
