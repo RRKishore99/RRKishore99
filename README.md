@@ -30,4 +30,4 @@ Request an audit at https://t.me/rk_sec
 # Contests
 | № | Date | Project | Category | Vulnerabilities | Report | Language | Rank |
 |:--|:--|:--|:--|:--|:--|:--|:--|
-| 01  |  20/03/2026     |   Intitution      |     L01     |  [📑](https://code4rena.com/audits/2026-03-intuition/submissions?uid=ucoJTFFNW2W)           |  Solidity      |          |      |
+| 01  |  20/03/2026     |   Intitution      |        |   L01(Valid)      |  [📑](https://code4rena.com/audits/2026-03-intuition/submissions?uid=ucoJTFFNW2W)        |    Solidity      |      |
